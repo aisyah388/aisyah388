@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siti Nuraisyah</h1>
 <h3 align="center">A .NET Software Developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core Web API, ASP.NET Core Blazor, DevOps**
+- 🌱 Main tech stack: **C#, ASP.NET Core Web API, ASP.NET Core Blazor**
+- 🚀 Currently exploring: **DevOps; Docker, Jenkins, Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
