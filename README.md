@@ -2,7 +2,7 @@
 <h3 align="center">A .NET Software Developer from Malaysia</h3>
 
 - 🌱 Main tech stack: **C#, ASP.NET Core Web API, ASP.NET Core Blazor**
-- 🚀 Currently exploring: **DevOps; Docker, Jenkins, Kubernetes**
+- 🚀 Currently exploring: **DevOps: Docker, Jenkins, Kubernetes; ASP.NET Core MVC, Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
