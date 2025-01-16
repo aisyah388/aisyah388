@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siti Nuraisyah</h1>
 <h3 align="center">A .NET Software Developer from Malaysia</h3>
 
-- 🌱 Main tech stack: **C#, ASP.NET Core Web API, ASP.NET Core Blazor**
-- 🚀 Currently exploring: **DevOps: Docker, Jenkins, Kubernetes; ASP.NET Core MVC, Angular**
+- 🌱 Main tech stack: **C#, ASP.NET Core Web API, ASP.NET Core Blazor, Outsystems**
+- 🚀 Currently exploring: **DevOps: Docker, Jenkins, Kubernetes; Outsystems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +13,7 @@
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="https://www.outsystems.com/" target="_blank" rel="noreferrer"><img src="https://www.outsystems.com/-/media/images/company/press-kit/os-presskit-page-icon-logo.png" alt="outsystems" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
