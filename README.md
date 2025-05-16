@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siti Nuraisyah</h1>
-<h3 align="center">A .NET / Low-code Software Developer from Malaysia</h3>
+<h3 align="center">A .NET Software Developer from Malaysia</h3>
 
-- 🌱 Main tech stack: **C#, ASP.NET Core Web API, ASP.NET Core Blazor, Outsystems, Neptune DX Platform**
-- 🚀 Currently exploring: **DevOps: Docker, Jenkins, Kubernetes; Outsystems, Neptune DX Platform**
+- 🌱 Main tech stack: **C#, ASP.NET Core Web API, ASP.NET Core Blazor**
+- 🚀 Currently exploring: **DevOps: Docker, Jenkins, Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
